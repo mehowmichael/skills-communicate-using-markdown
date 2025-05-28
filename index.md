@@ -8,3 +8,7 @@
 ``` C++
 cout << "Hello Everyone.";
 ```
+
+- [ ] Stay frosty
+- [ ] Be cool
+- [ ] Stay coding
