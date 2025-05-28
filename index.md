@@ -4,3 +4,7 @@
 ##### True change is never meant to be applauded. It is for the satisfaction of oneself. 🌟
 
 ![image](https://github.com/user-attachments/assets/b36b04e6-46a6-42db-b168-de4936c2b548)
+
+``` C++
+cout << "Hello Everyone.";
+```
