@@ -16,8 +16,12 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+    paths-ignore:
+    - '**/*.txt'
+    - '**/*.md'
   schedule:
     - cron: '42 15 * * 4'
+  
 
 jobs:
   analyze:
